@@ -1,0 +1,90 @@
+{
+  "primaryDomain": "업무",
+  "secondaryDomain": "자기개발",
+  "totalAnalyzedSessions": 4,
+  "overallStressLevel": 68,
+  "categories": [
+    {
+      "category": "업무",
+      "count": 1,
+      "percentage": 25,
+      "avgIntensity": 9,
+      "color": "#E11D48",
+      "description": "과도한 업무량, 야근, 마감 압박, 상사 및 팀 내 소통, 성과 책임감",
+      "keyTriggers": [
+        "끝없는 야근/특근",
+        "상사의 가스라이팅/폭언",
+        "#야근",
+        "#상사갈등"
+      ]
+    },
+    {
+      "category": "자기개발",
+      "count": 1,
+      "percentage": 25,
+      "avgIntensity": 8,
+      "color": "#D97706",
+      "description": "커리어 도태 불안, 자격증/어학 공부 부담, 이직 준비 스트레스, 완벽주의",
+      "keyTriggers": [
+        "성과 및 실적 압박",
+        "뒤처지는 느낌/도태 불안",
+        "#자기개발",
+        "#도태불안"
+      ]
+    },
+    {
+      "category": "취미 활동",
+      "count": 1,
+      "percentage": 25,
+      "avgIntensity": 7,
+      "color": "#059669",
+      "description": "워라밸 붕괴로 인한 여가 부재, 쉴 때 느끼는 죄책감, 무기력과 취미 박탈",
+      "keyTriggers": [
+        "휴식 및 수면 부족",
+        "여가 불능 상태",
+        "#취미활동",
+        "#여가부재"
+      ]
+    },
+    {
+      "category": "인간관계",
+      "count": 1,
+      "percentage": 25,
+      "avgIntensity": 8,
+      "color": "#4F46E5",
+      "description": "사내정치, 동료와의 냉기류, 타인의 시선과 눈치 보기, 고립감",
+      "keyTriggers": [
+        "동료와의 불화/사내정치",
+        "상사의 가스라이팅/폭언",
+        "#사내정치",
+        "#동기위로"
+      ]
+    },
+    {
+      "category": "건강/생활",
+      "count": 0,
+      "percentage": 0,
+      "avgIntensity": 5,
+      "color": "#0891B2",
+      "description": "수면장애, 만성 두통/위장장애, 체력 고갈, 불규칙한 식습관",
+      "keyTriggers": [
+        "불면증/수면의 질 저하",
+        "만성 신체 피로",
+        "주말 몰아자기"
+      ]
+    }
+  ],
+  "counselorGuidance": "내담자의 가장 심각한 스트레스 근원은 [업무]입니다. 업무나 자기개발 강박으로 인한 피로도가 높으니 절대적인 지지와 무조건적인 수용으로 죄책감을 덜어주고 실현 가능한 '작은 멈춤'을 처방해주세요.",
+  "aiDiagnosis": {
+    "coreDiagnosis": "현재 내담자는 '업무' 영역(25%)에서 가장 높은 심리적 소진과 중압감을 겪고 있으며, 2순위로 '자기개발' 관련 고민이 복합적으로 작용하고 있습니다.",
+    "vulnerabilityTrigger": "업무 마감과 성과 책임감이 개인의 휴식과 자기개발 시간까지 침범하여, 쉴 때조차 죄책감을 느끼는 '가짜 휴식' 패턴이 주된 취약 요인입니다.",
+    "strengthAndResilience": "자신의 상태를 정직하게 관찰하고 상담을 통해 주도적으로 치유하려는 성찰 능력과 성장에 대한 진정성이 매우 높습니다.",
+    "actionPrescription": [
+      "퇴근 후 첫 30분 동안 업무와 자기개발 생각 완전 단절 루틴 갖기",
+      "주말 중 반나절은 '아무 생산성 없는 온전한 쉼' 허용하기",
+      "타인의 미숙함이나 과도한 일정을 내 부족함으로 자책하지 않는 연습하기"
+    ],
+    "counselorRecommendation": "내담자는 이미 일과 성장에 대해 최선을 다하고 있으므로, \"더 열심히 하라\"는 조언보다는 \"지금도 충분히 잘하고 있으며, 영혼을 지키는 쉼이 최우선\"임을 강조해주세요."
+  },
+  "lastAnalyzedAt": "2026-09-11T05:15:07.473Z"
+}

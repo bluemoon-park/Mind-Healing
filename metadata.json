@@ -1,0 +1,8 @@
+{
+  "name": "Remix 토닥토닥 오피스 - 직장인 마음 치유 상담소",
+  "description": "업무 스트레스, 인간관계, 번아웃으로 지친 직장인을 위한 따뜻한 공감과 현실적인 위로를 건네는 AI 심리 상담소입니다.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
